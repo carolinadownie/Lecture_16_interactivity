@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1509557019333.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3274412537",
+    "id" : "5B6FA4F3",
+    "lastKnownWriteTime" : 1509557313,
+    "last_content_update" : 1509557313038,
+    "path" : "~/Documents/Columbia/Semester3/Data Science/Lecture 16/p8105_lecture16.Rmd",
+    "project_path" : "p8105_lecture16.Rmd",
+    "properties" : {
+        "cursorPosition" : "26,34",
+        "scrollLine" : "14",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
